@@ -42,8 +42,8 @@ Server	Uvicorn
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Garvithindoliya16/health_premium_MLplusFastapi.git
+cd <repo-health_premium_MLplusFastapi>
 
 2️⃣ Create a Virtual Environment
 python -m venv fastAPI
@@ -66,7 +66,8 @@ Uvicorn running on http://127.0.0.1:8000
 streamlit run frontend/app.py
 
 
-Then open the URL displayed in your terminal (usually http://localhost:8501).
+Then open the URL displayed in your terminal (usually http://localhost:8501
+).
 
 🌐 API Endpoints
 1. Root Endpoint
@@ -120,7 +121,7 @@ Features:
 
 Form-based data input (age, height, weight, city, income, etc.)
 
-Automatic request to FastAPI backend.
+Automatic request to FastAPI backend
 
 Displays:
 
@@ -132,7 +133,7 @@ Probability distribution across categories
 
 Example Screenshot:
 
-(Add screenshot of your Streamlit UI here)
+(Add a screenshot of your Streamlit UI here)
 
 🧮 Computed Features (Handled Automatically)
 Feature	Formula / Logic	Example
